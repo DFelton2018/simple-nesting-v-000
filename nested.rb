@@ -59,7 +59,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-     puts "#{[:dennis_ritchie][:languages]}"
+      "#{[:dennis_ritchie][:languages]}"
 end
 
 def adding_matz
